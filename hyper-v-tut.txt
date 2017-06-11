@@ -1,0 +1,9 @@
+http://blog.51cto.com/zt/652
+
+hyper-v 单服，单网卡，多公网IP，多虚拟机实现南http://www.os-v.com/a/Server_News/11013.html
+
+通过 VMConnect 在 Hyper-V 虚拟机上使用本地资源.html
+https://technet.microsoft.com/zh-cn/library/dn282274.aspx
+
+
+增强模式也不是有盘符,可能ftp用不了,listary
